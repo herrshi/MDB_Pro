@@ -1,0 +1,11 @@
+// Input group
+.md-form.input-group .input-group-text [type=checkbox]+label,
+.input-group .input-group-text [type=checkbox]+label {
+  padding-left: $input-group-text-checkbox-pl;
+  height: $input-group-text-checkbox-height;
+}
+.md-form.input-group .input-group-text [type=radio]+label,
+.input-group .input-group-text [type=radio]+label {
+  padding-left: $input-group-text-radio-pl;
+  height: $input-group-text-radio-height;
+}
