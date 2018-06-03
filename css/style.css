@@ -1,1 +1,15 @@
 
+.side-nav .logo-sn {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.side-nav .logo-sn img {
+  height: 38px;
+}
+
+.side-nav .search-form input[type=text] {
+  margin-top: 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
